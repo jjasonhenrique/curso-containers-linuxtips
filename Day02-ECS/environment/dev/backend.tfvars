@@ -1,4 +1,4 @@
 bucket  = "containers-linuxtips-jason"
-key     = "vpc/dev/state"
+key     = "ecs/dev/state"
 region  = "us-east-1"
 profile = "blog"
